@@ -12,14 +12,14 @@ SRC_DIR = path.expanduser('~/Documents/src/')
 TOPIC_URL = 'https://forum.zdoom.org/viewtopic.php?f=43&t='
 
 PARTS = [
-    ['Target Spy: Health Bars++' , 'target-spy'          , '60784'],
-    ['Autoautosave'              , 'autoautosave'        , '59889'],
-    ['Hellscape Navigator'       , 'hellscape-navigator' , '61643'],
-    ['Weapon Menu +'             , 'weapon-menu'         , '59498'],
-    ['IDCLEVer Starter'          , 'idclever-starter'    , '61079'],
-    ['Armament Tuning'           , 'armament-tuning'     , '61079'],
-    ['Laser Sight'               , 'laser-sight'         , '61079'],
-    ['Pomodoro Timer'            , 'gzdoom-pomodoro'     , '60035'],
+    ['Target Spy: Health Bars++' , 'target-spy'          , '60784#p1057216'],
+    ['Autoautosave'              , 'autoautosave'        , '59889#p1045558'],
+    ['Hellscape Navigator'       , 'hellscape-navigator' , '61643#p1068272'],
+    ['Weapon Menu +'             , 'weapon-menu'         , '59498#p1040474'],
+    ['IDCLEVer Starter'          , 'idclever-starter'    , '61079#p1060800'],
+    ['Armament Tuning'           , 'armament-tuning'     , '61079#p1060800'],
+    ['Laser Sight'               , 'laser-sight'         , '61079#p1060800'],
+    ['Pomodoro Timer'            , 'gzdoom-pomodoro'     , '60035#p1047347'],
 ]
 
 if __name__ == "__main__":
