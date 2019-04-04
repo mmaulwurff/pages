@@ -10,7 +10,6 @@ from subprocess import run
 
 SRC_DIR = path.expanduser('~/Documents/src/')
 TOPIC_URL = 'https://forum.zdoom.org/viewtopic.php?f=43&t='
-
 PARTS = [
     ['Target Spy: Health Bars++' , 'target-spy'          , '60784#p1057216'],
     ['Autoautosave'              , 'autoautosave'        , '59889#p1045558'],
@@ -25,7 +24,6 @@ PARTS = [
 if __name__ == "__main__":
 
     OUT = open('toolbox.md', 'w')
-
     OUT.write("# m8f's toolbox\n\n")
 
     for part in PARTS:
@@ -34,7 +32,7 @@ if __name__ == "__main__":
         chdir(path)
 
         command = ['git', 'describe', '--abbrev=0', '--tags']
-        version = run(command, stdout=PIPE, stderr=PIPE).stdout.decode('utf-8').rstrip()
+        version = run(command, stdout=PIPE).stdout.decode('utf-8').rstrip()
 
         url = ''.join([TOPIC_URL, part[2]])
-        OUT.write(''.join(['- [', part[0], ' (v', version, ')' '](', url, ')\n']))
+        OUT.write(''.join(['- [', part[0], ' (v', version, ')](', url, ')\n']))
