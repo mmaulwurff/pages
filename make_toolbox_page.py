@@ -20,11 +20,17 @@ PARTS = [
     ['Laser Sight'               , 'laser-sight'         , '61079#p1060800'],
     ['Pomodoro Timer'            , 'gzdoom-pomodoro'     , '60035#p1047347'],
 ]
+HEADER = """# m8f's toolbox
+
+A collection of minimods for [GZDoom](https://zdoom.org/index) game engine.
+
+"""
+
 
 if __name__ == "__main__":
 
     OUT = open('toolbox.md', 'w')
-    OUT.write("# m8f's toolbox\n\n")
+    OUT.write(HEADER)
 
     for part in PARTS:
 
