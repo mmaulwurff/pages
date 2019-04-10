@@ -1,4 +1,4 @@
-# Pages
+# Contents
 
-* [toolbox.md](https://mmaulwurff.github.io/pages/toolbox)
-* [wads.md](https://mmaulwurff.github.io/pages/wads)
+* [m8f's toolbox](https://mmaulwurff.github.io/pages/toolbox)
+* [Played WADs](https://mmaulwurff.github.io/pages/wads)
