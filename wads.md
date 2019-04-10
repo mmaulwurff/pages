@@ -12,7 +12,7 @@
 | Heretic: Shadow of the Serpent Riders       | Raven Software                            | 45 | 1996 | Creative fantasy Doom expansion. New ideas in levels and gameplay. 5/5                           |   |
 |---------------------------------------------|-------------------------------------------|----|------|--------------------------------------------------------------------------------------------------|---|
 | Freedoom Episode 1                          | Freedoom project                          | 36 | 2017 |                                                                                                  |   |
-| Freedoom Episode 2 (v 0.11.3)               | Freedoom project                          | 32 | 2017 | Played maps only. Monsters are UGLY.                                                             |   |
+| Freedoom Episode 2 (v 0.11.3)               | Freedoom project                          | 32 | 2017 | Played maps only. Monster sprites could be better.                                               |   |
 | Double Impact                               | Matt Cibulas (RottKing) & Ralphis         | 9  | 2011 | Nice hard Doom levels. Played as part of Freedoom Episode 1.                                     |   |
 |---------------------------------------------|-------------------------------------------|----|------|--------------------------------------------------------------------------------------------------|---|
 | REKKR                                       | Revae, LupinxKassman, ...                 | 36 | 2018 | New game on Doom engine. Fresh oldschool, high quality. Vikings. 5/5                             |   |
