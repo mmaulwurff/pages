@@ -19,6 +19,7 @@ PARTS = [
     ['Armament Tuning'           , 'armament-tuning'     , '61079#p1060800'],
     ['Laser Sight'               , 'laser-sight'         , '61079#p1060800'],
     ['Pomodoro Timer'            , 'gzdoom-pomodoro'     , '60035#p1047347'],
+    ['Ultimate Custom Doom'      , 'ultimate-custom-doom', '64678#p1103556'],
 ]
 HEADER = """# m8f's toolbox
 
