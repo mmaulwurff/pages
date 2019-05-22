@@ -11,3 +11,4 @@ A collection of minimods for [GZDoom](https://zdoom.org/index) game engine.
 - [Laser Sight (v0.5.4)](https://forum.zdoom.org/viewtopic.php?f=43&t=61079#p1060800)
 - [Pomodoro Timer (v0.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=60035#p1047347)
 - [Ultimate Custom Doom (v0.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=64678#p1103556)
+- [Precise Crosshair (v1.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=64788#p1104858)

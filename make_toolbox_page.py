@@ -20,6 +20,7 @@ PARTS = [
     ['Laser Sight'               , 'laser-sight'         , '61079#p1060800'],
     ['Pomodoro Timer'            , 'gzdoom-pomodoro'     , '60035#p1047347'],
     ['Ultimate Custom Doom'      , 'ultimate-custom-doom', '64678#p1103556'],
+    ['Precise Crosshair'         , 'precise-crosshair'   , '64788#p1104858'],
 ]
 HEADER = """# m8f's toolbox
 
