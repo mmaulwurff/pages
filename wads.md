@@ -199,8 +199,9 @@
 | Plutonia 2                                  | Van der Velden, Vojta, Johansson,         | 33 | 2008 | Good visuals, hard gameplay. Not much variety in level themes.                                   |   |
 | Community Chest 4                           | Eric Baker, Dutch Devil, Joshy,           | 33 | 2012 | Some maps are great. Not fond of later maps.                                                     |   |
 | NOVA II: New Dawn                           | dobu gabu maru, cannonball, AD_79         | 32 | 2015 | Played up to MAP22. Good-great maps. 4/5.                                                        |   |
-| THT: Threnody                               | Chris Hansen, Doomkid, didy,              | 20 | 2016 | Has some gems. Skipped most of the last levels. 4/5                                              |   |
+| THT: Threnody                               | Chris Hansen, Doomkid, didy, ...          | 20 | 2016 | Has some gems. Skipped most of the last levels. 4/5                                              |   |
 | Bloodstain                                  | Pavel 'Pipicz' Tvrzník                    | 32 | 2016 | High quality megawad. Different themes. Skipped latest hell maps.                                |   |
+| Eviternity                                  | Joshua O'Sullivan (Dragonfly) et al.      | 32 | 2018 | Masterpiece. Beautiful architecture, engaging comabt. The only miss is boss battle.              | 5 |
 |---------------------------------------------|-------------------------------------------|----|------|--------------------------------------------------------------------------------------------------|---|
 | The Adventures Of Square: Episode 1         | Jimmy, Xaser, Rottking, Tarnsman,         | 22 | 2018 | Colors. Action. Fun. Awesome enemies, levels, weapons, everything. 5/5                           |   |
 | The Adventures Of Square: Episode 2         | Captain J, Alfonzo, ClonedPickle,         |    |      | Interesting platforming with different gravitation.                                              |   |
@@ -276,13 +277,15 @@
 | Diabolus Ex v1.1                            | Arvy                                      | 1  | 2018 | Unique modern visuals and level design.                                                          | 5 |
 | Debased                                     | Pixel Eater                               | 1  | 2018 | Small Doom II map. Occasional detailing.                                                         | 3 |
 | Perilous Cavern                             | leodoom85                                 | 1  | 2018 | Gothic/cave map. Non-stop action. Good detailing and visuals. Surprise at the end.               | 4 |
-| Set's Labyrinth                             | DavidN                                    | 1  | 2018 | Good-looking egyptian-themed map. A few puzzles, decent combat, interesting secrets.             | 5 |
 | The Incident                                | elend                                     | 1  | 2018 | Large tech base with intricate detailing. Clever use of based textures.                          | 5 |
 | Bury My Heart Knee Deep                     | Ryath                                     | 1  | 2018 | Large E1-styled base. Lots of exploration, setpiece fights. Highly non-linear.                   | 5 |
 | The Iron Forge                              | Xaser, Not Jabba                          | 1  | 2018 | Nice Heretic map. Skipped the final battle.                                                      | 4 |
 | Order of the Odonata                        | Dragonfly                                 | 1  | 2018 | Beautiful middle-sized fantasy castle, boss fight.                                               | 5 |
 | MMDCXIV - Journey into 27 Century           | Zanieon                                   | 1  | 2019 | Big futuristic map with high monster count. Unique visuals, level flow with a twist.             | 5 |
 | Verdant Citadel                             | exl                                       | 1  | 2019 | Big multy-layered fortress. Multiple paths. Great visuals.                                       | 5 |
+|---------------------------------------------|-------------------------------------------|----|------|--------------------------------------------------------------------------------------------------|---|
+| Set's Labyrinth                             | DavidN                                    | 1  | 2018 | Good-looking egyptian-themed map. A few puzzles, decent combat, interesting secrets.             | 5 |
+| Vulkan Inc. 1.5 Episode 1                   | ^                                         | 7  | 2019 | Mapset/gameplay mod. New gameplay elements: vulcoins, coolant eggs. Good visuals and flow.       | 5 |
 |---------------------------------------------|-------------------------------------------|----|------|--------------------------------------------------------------------------------------------------|---|
 | Compendium - Hell Factory                   | Tomi Rajala                               | 7? | ?    | Nice short scripted set of maps. Nonlinear, much backtracking.                                   | 4 |
 | Compendium - Operation Biowar               | Chris Harbin, Paul Corfiatis, John Bishop | 19 | 1999 | Okay megawad. Last levels are rather plain.                                                      | 3 |
