@@ -7,11 +7,13 @@
 | Doom: E3: Inferno                           | id (Sandy Petersen)                       | 9  | 1993 | Better than I thought. Some maps are interesting in gameplay.                                    |   |
 | Doom II: Hell on Earth                      | id (Petersen, McGee, Romero)              | 32 | 1994 |                                                                                                  |   |
 | Tech Gone Bad (e1m8 remake)                 | John Romero                               | 1  | 2016 | Nice map. Better than original e1m8.                                                             |   |
-| Phobos Mission Control (e1m4 remake)        | John Romero                               | 1  | 2016 | Great tough gameplay at transformating map.                                                      |   |
+| Phobos Mission Control (e1m4 remake)        | ^                                         | 1  | 2016 | Great tough gameplay at transformating map.                                                      |   |
+| Sigil                                       | ^                                         | 9  | 2019 | Sigil is fresh and old-school episode at the same time. "The level is your enemy." Merciless.    | 5 |
 |---------------------------------------------|-------------------------------------------|----|------|--------------------------------------------------------------------------------------------------|---|
 | Doom 64: Retribution: Doom 64               | Nevander, Sukru Gilman, Aaron Seeler      | 32 | 2016 | Step up from the original. Better atmosphere, better effects. Original gameplay.                 | 5 |
 |---------------------------------------------|-------------------------------------------|----|------|--------------------------------------------------------------------------------------------------|---|
 | Heretic: Shadow of the Serpent Riders       | Raven Software                            | 45 | 1996 | Creative fantasy Doom expansion. New ideas in levels and gameplay. 5/5                           |   |
+| The Wayfarer                                | Not Jabba                                 | 9  | 2019 | Episode + gameplay tweaks. Nice-looking action-packed maps. Later levels devolve to slaughter.   | 4 |
 |---------------------------------------------|-------------------------------------------|----|------|--------------------------------------------------------------------------------------------------|---|
 | Freedoom Episode 1                          | Freedoom project                          | 36 | 2017 |                                                                                                  |   |
 | Freedoom Episode 2 (v 0.11.3)               | Freedoom project                          | 32 | 2017 | Played maps only. Monster sprites could be better.                                               |   |
