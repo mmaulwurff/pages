@@ -21,6 +21,8 @@
 |---------------------------------------------|-------------------------------------------|----|------|--------------------------------------------------------------------------------------------------|---|
 | REKKR                                       | Revae, LupinxKassman, ...                 | 36 | 2018 | New game on Doom engine. Fresh oldschool, high quality. Vikings. 5/5                             |   |
 |---------------------------------------------|-------------------------------------------|----|------|--------------------------------------------------------------------------------------------------|---|
+| Harmony                                     | Thomas van der Velden (Rabotik), Enjay    | 11 | 2009 | Standalone. Impressive realistic-ish maps, new monsters. Hard.                                   | 5 |
+|---------------------------------------------|-------------------------------------------|----|------|--------------------------------------------------------------------------------------------------|---|
 | Back to Saturn X E1: Get Out Of My Stations | Esselfortium, Torn, Ed,                   | 27 | 2017 | Great design & gameplay. Masterpiece. The best megawad. Played twice.                            |   |
 | BTSX E2: Tower in the Fountain of Sparks    | ,iori, Mechadon, RottKing, Vader,         | 27 | 2017 | Different designs. High quality.                                                                 |   |
 | dead.wire                                   | xaser                                     | 1  | 2015 | Piece of art. Great style.                                                                       |   |
