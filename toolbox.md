@@ -8,9 +8,9 @@ A collection of minimods for [GZDoom](https://zdoom.org/index) game engine.
 <img src="https://mmaulwurff.github.io/zdoom-top-labels/pngs/m8f%E2%80%99s_toolbox.png">
 </a>
 
-- [Target Spy: Health Bars++ (v1.9.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=60784#p1057216)
+- [Target Spy: Health Bars++ (v1.10)](https://forum.zdoom.org/viewtopic.php?f=43&t=60784#p1057216)
 - [Autoautosave (v1.2.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=59889#p1045558)
-- [Hellscape Navigator (v0.14.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=61643#p1068272)
+- [Hellscape Navigator (v0.15)](https://forum.zdoom.org/viewtopic.php?f=43&t=61643#p1068272)
 - [Weapon Menu + (v3.8)](https://forum.zdoom.org/viewtopic.php?f=43&t=59498#p1040474)
 - [IDCLEVer Starter (v0.5.3)](https://forum.zdoom.org/viewtopic.php?f=43&t=61079#p1060800)
 - [Armament Tuning (v0.3.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=61079#p1060800)
@@ -18,4 +18,4 @@ A collection of minimods for [GZDoom](https://zdoom.org/index) game engine.
 - [Pomodoro Timer (v0.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=60035#p1047347)
 - [Ultimate Custom Doom (v0.4)](https://forum.zdoom.org/viewtopic.php?f=43&t=64678#p1103556)
 - [Precise Crosshair (v1.3)](https://forum.zdoom.org/viewtopic.php?f=43&t=64788#p1104858)
-- [10.5x (v0.3)](https://forum.zdoom.org/viewtopic.php?f=43&t=65962#p1119733)
+- [10.5x (v0.4)](https://forum.zdoom.org/viewtopic.php?f=43&t=65962#p1119733)
