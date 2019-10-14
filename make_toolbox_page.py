@@ -22,6 +22,7 @@ PARTS = [
     ['Ultimate Custom Doom'      , 'ultimate-custom-doom', '64678#p1103556'],
     ['Precise Crosshair'         , 'precise-crosshair'   , '64788#p1104858'],
     ['10.5x'                     , '10.5x'               , '65962#p1119733'],
+    ['Death-flip'                , 'flip'                , '66117#p1121533'],
 ]
 HEADER = """# m8f's toolbox
 
