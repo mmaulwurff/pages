@@ -2,10 +2,12 @@
 
 | Title                                       | Author                                    | N  | Year | Comment --------------------------------------------------------------                           | R |
 |---------------------------------------------|-------------------------------------------|----|------|--------------------------------------------------------------------------------------------------|---|
-| Doom: E1: Knee-Deep in the Dead (shareware) | id (John Romero, Tom Hall)                | 9  | 1993 | Maybe the best episode of all original games.                                                    |   |
-| Doom: E2: The Shores of Hell                | id (Tom Hall, Sandy Petersen)             | 9  | 1993 | Highlights: e2m2, e2m7. Some maps are barely playable. Not my style.                             |   |
-| Doom: E3: Inferno                           | id (Sandy Petersen)                       | 9  | 1993 | Better than I thought. Some maps are interesting in gameplay.                                    |   |
-| Doom II: Hell on Earth                      | id (Petersen, McGee, Romero)              | 32 | 1994 |                                                                                                  |   |
+| Doom: E1: Knee-Deep in the Dead (shareware) | id (John Romero, Tom Hall)                | 9  | 1993 | Maybe the best episode of all original games.                                                    | 5 |
+| Doom: E2: The Shores of Hell                | id (Tom Hall, Sandy Petersen)             | 9  | 1993 | Highlights: e2m2, e2m7. Some maps are barely playable. Not my style.                             | 2 |
+| Doom: E3: Inferno                           | id (Sandy Petersen)                       | 9  | 1993 | Better than I thought. Some maps are interesting in gameplay.                                    | 3 |
+| Doom II: Hell on Earth                      | id (Petersen, McGee, Romero)              | 32 | 1994 |                                                                                                  | 4 |
+| Master Levels for Doom II                   | id (Dr, Sleep, Jim Flynn, Cranium, ...)   | 21 | 1995 | Mixed bag, some of the levels are fun and challenging, sometimes both.                           | 3 |
+|---------------------------------------------|-------------------------------------------|----|------|--------------------------------------------------------------------------------------------------|---|
 | Tech Gone Bad (e1m8 remake)                 | John Romero                               | 1  | 2016 | Nice map. Better than original e1m8.                                                             |   |
 | Phobos Mission Control (e1m4 remake)        | ^                                         | 1  | 2016 | Great tough gameplay at transformating map.                                                      |   |
 | Sigil                                       | ^                                         | 9  | 2019 | Sigil is fresh and old-school episode at the same time. "The level is your enemy." Merciless.    | 5 |
@@ -20,8 +22,8 @@
 | Double Impact                               | Matt Cibulas (RottKing) & Ralphis         | 9  | 2011 | Nice hard Doom levels. Played as part of Freedoom Episode 1.                                     |   |
 |---------------------------------------------|-------------------------------------------|----|------|--------------------------------------------------------------------------------------------------|---|
 | REKKR                                       | Revae, LupinxKassman, ...                 | 36 | 2018 | New game on Doom engine. Fresh oldschool, high quality. Vikings. 5/5                             |   |
-|---------------------------------------------|-------------------------------------------|----|------|--------------------------------------------------------------------------------------------------|---|
 | Harmony                                     | Thomas van der Velden (Rabotik), Enjay    | 11 | 2009 | Standalone. Impressive realistic-ish maps, new monsters. Hard.                                   | 5 |
+| Hedon                                       | Zan                                       | 10 | 2019 | https://steamcommunity.com/id/m8f/recommended/1072150/                                           | 5 |
 |---------------------------------------------|-------------------------------------------|----|------|--------------------------------------------------------------------------------------------------|---|
 | Back to Saturn X E1: Get Out Of My Stations | Esselfortium, Torn, Ed,                   | 27 | 2017 | Great design & gameplay. Masterpiece. The best megawad. Played twice.                            |   |
 | BTSX E2: Tower in the Fountain of Sparks    | ,iori, Mechadon, RottKing, Vader,         | 27 | 2017 | Different designs. High quality.                                                                 |   |
@@ -300,6 +302,7 @@
 | Dimension of the Boomed                     | Urthar                                    | 7  | 2018 | Quake-styled episode. Creepy atmosphere. New monsters from Quake. Artistic levels.               | 5 |
 | Avactor                                     | Eradrop                                   | 12 | 2018 | Mesoamerican jungle/temples. Big levels. Big fights. Custom monsters. Style!                     | 5 |
 | DARK UNIVERSE-part 1                        | Paul Dechene (PAYLOAD4367)                | 6  | 2018 | Maps on a spaceship that is overrun by demons and falling apart. Very cool.                      | 5 |
+| Hell-Forged                                 | Amuscaria                                 | 9  | 2019 | https://forum.zdoom.org/viewtopic.php?f=282&t=66308#p1123875                                     | 5 |
 |---------------------------------------------|-------------------------------------------|----|------|--------------------------------------------------------------------------------------------------|---|
 | Title                                       | Author                                    | N  | Year | Comment                                                                                          | R |
 
