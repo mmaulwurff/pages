@@ -28,8 +28,6 @@ HEADER = """# m8f's toolbox
 
 A collection of minimods for [GZDoom](https://zdoom.org/index) game engine.
 
-[itch.io page](https://m8f.itch.io/m8fs-toolbox)
-
 <a href="https://forum.zdoom.org/viewtopic.php?f=4&t=60112#p1048497">
 <img src="https://mmaulwurff.github.io/zdoom-top-labels/pngs/m8f%E2%80%99s_toolbox.png">
 </a>
