@@ -8,7 +8,7 @@ from os import path
 from subprocess import PIPE
 from subprocess import run
 
-SRC_DIR = path.expanduser('~/Documents/src/')
+SRC_DIR = path.expanduser('~/src/')
 TOPIC_URL = 'https://forum.zdoom.org/viewtopic.php?f=43&t='
 PARTS = [
     ['Target Spy: Health Bars++' , 'target-spy'          , '60784#p1057216'],
