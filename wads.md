@@ -1,5 +1,3 @@
-# Levels
-
 | Title                                       | Author                                    | N  | Year | Comment --------------------------------------------------------------                           | R |
 |---------------------------------------------|-------------------------------------------|----|------|--------------------------------------------------------------------------------------------------|---|
 | Doom: E1: Knee-Deep in the Dead (shareware) | id (John Romero, Tom Hall)                | 9  | 1993 | Maybe the best episode of all original games.                                                    | 5 |
@@ -207,7 +205,8 @@
 | NOVA II: New Dawn                           | dobu gabu maru, cannonball, AD_79         | 32 | 2015 | Played up to MAP22. Good-great maps. 4/5.                                                        |   |
 | THT: Threnody                               | Chris Hansen, Doomkid, didy, ...          | 20 | 2016 | Has some gems. Skipped most of the last levels. 4/5                                              |   |
 | Bloodstain                                  | Pavel 'Pipicz' Tvrzník                    | 32 | 2016 | High quality megawad. Different themes. Skipped latest hell maps.                                |   |
-| Eviternity                                  | Joshua O'Sullivan (Dragonfly) et al.      | 32 | 2018 | Masterpiece. Beautiful architecture, engaging comabt. The only miss is boss battle.              | 5 |
+| Eviternity                                  | Joshua O'Sullivan (Dragonfly) et al.      | 32 | 2018 | Masterpiece. Beautiful architecture, engaging combat. The only miss is boss battle.              | 5 |
+| Doom Zero                                   | DASI-I                                    | 32 | 2019 | Vanilla mechanics, new tricks. Simple visuals with occasional neat details. Very elaborate.      | 5 |
 |---------------------------------------------|-------------------------------------------|----|------|--------------------------------------------------------------------------------------------------|---|
 | The Adventures Of Square: Episode 1         | Jimmy, Xaser, Rottking, Tarnsman,         | 22 | 2018 | Colors. Action. Fun. Awesome enemies, levels, weapons, everything. 5/5                           |   |
 | The Adventures Of Square: Episode 2         | Captain J, Alfonzo, ClonedPickle,         |    |      | Interesting platforming with different gravitation.                                              |   |
@@ -305,22 +304,3 @@
 | Hell-Forged                                 | Amuscaria                                 | 9  | 2019 | https://forum.zdoom.org/viewtopic.php?f=282&t=66308#p1123875                                     | 5 |
 |---------------------------------------------|-------------------------------------------|----|------|--------------------------------------------------------------------------------------------------|---|
 | Title                                       | Author                                    | N  | Year | Comment                                                                                          | R |
-
-# Mods
-
-| Name                                | Author            | Comment                                                                                           | R |
-|-------------------------------------|-------------------|---------------------------------------------------------------------------------------------------|---|
-| Beautiful Doom (v6.2.1)             | Jekyll_Grim_Payne | Lots of stuff: deaths, objects, weapons. Switched off deaths. Direct upgrade for vanilla weapons. |   |
-| Smooth Doom (10.2017)               | Gifty             | Great cosmetic mod. Now using monsters only.                                                      |   |
-| Weapons of Saturn (31.10.2017)      | Lippeth           | Balanced weapons mod. Reloading, altfire. Replaced Beautiful Doom weapons for me.                 |   |
-| Fading Corpses Universal            | Beed28            | Makes corses disappear. + Nice effect of appearing from nowhere when they are resurrected!        |   |
-| Flashlights_BD                      |                   | Must-have for 'dark' light option and Dark Doom. Low-res version is fine.                         |   |
-| JDUI Brutal Doom (Ultimate Edition) |                   | Using 'unofficial megawads' version (JF.pk3)                                                      |   |
-| Monster Scouter - Show Enemy Health | Spaceman333       | Modified to be progressbar-like indicator with colors.                                            |   |
-| High Noon Drifter (v1.2)            | TerminusEst13     | Wild West-themed weapons. Lots of interesting mechanics. Cacowards winner.                        |   |
-| Colourful Hell (v0.925b)            | Hege Cactus       | More variation for monsters, tough random bosses.                                                 |   |
-| Netronian Chaos                     | Captain J         | New weapons, new monsters, all mspaint/cartoonish style. Cute but deadly.                         |   |
-| EVP                                 | ADMERAL           |                                                                                                   |   |
-| Zagemod                             | silentzora        | Very solid vanilla improvement with several player classes.                                       |   |
-|-------------------------------------|-------------------|---------------------------------------------------------------------------------------------------|---|
-| Name                                | Author            | Comment                                                                                           | R |
