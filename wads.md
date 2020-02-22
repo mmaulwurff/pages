@@ -197,7 +197,7 @@
 | Doom 2 Reloaded                             | Andy Stewart                              | 32 | 2009 |                                                                                                  |   |
 | Neodoom                                     | Daniel Lemos                              | 32 | 2006 | Played with PrBoom+. Various map design.                                                         |   |
 | Echelon (v1.5)                              | Sverre Andre Kvernmo (Soundblock)         | 30 | 2016 | Story-driven megawad with small levels. Got bored, not finished.                                 |   |
-| Alien Vendetta Black Label                  | Mattias Berggren, Brad Spencer,           | 32 | 2016 | Painful hard gameplay. Mediocre visuals. Not finished, didn't like.                              |   |
+| Alien Vendetta Black Label                  | Mattias Berggren, Brad Spencer,           | 32 | 2016 | Hard gameplay. Visuals - varies. Some maps are gems.                                             | 4 |
 | Requiem                                     | Adelusion, Orin Flaharty, ...             | 32 | 1997 | Some maps - great architecrure and detailing, Some not. Hard.                                    |   |
 | Revolution!                                 | Thomas van der Velden                     | 32 | 2001 | Interesting design and architecture, short maps. 4/5                                             |   |
 | Plutonia 2                                  | Van der Velden, Vojta, Johansson,         | 33 | 2008 | Good visuals, hard gameplay. Not much variety in level themes.                                   |   |
@@ -302,5 +302,6 @@
 | Avactor                                     | Eradrop                                   | 12 | 2018 | Mesoamerican jungle/temples. Big levels. Big fights. Custom monsters. Style!                     | 5 |
 | DARK UNIVERSE-part 1                        | Paul Dechene (PAYLOAD4367)                | 6  | 2018 | Maps on a spaceship that is overrun by demons and falling apart. Very cool.                      | 5 |
 | Hell-Forged                                 | Amuscaria                                 | 9  | 2019 | https://forum.zdoom.org/viewtopic.php?f=282&t=66308#p1123875                                     | 5 |
+| Syringe                                     | Pavera, Tarnsman, Marcaek, Xaser          | 7  | 2019 | So-so. Some interesting concept maps, some boring.                                               | 3 |
 |---------------------------------------------|-------------------------------------------|----|------|--------------------------------------------------------------------------------------------------|---|
 | Title                                       | Author                                    | N  | Year | Comment                                                                                          | R |
