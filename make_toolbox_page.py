@@ -23,6 +23,7 @@ PARTS = [
     ['Precise Crosshair'         , 'precise-crosshair'   , '64788#p1104858'],
     ['10.5x'                     , '10.5x'               , '65962#p1119733'],
     ['Death-flip'                , 'flip'                , '66117#p1121533'],
+    ['Autopause'                 , 'autopause'           , '67991#p1144022'],
 ]
 HEADER = """# m8f's toolbox
 
@@ -49,4 +50,4 @@ if __name__ == "__main__":
         version = run(command, stdout=PIPE).stdout.decode('utf-8').rstrip()
 
         url = ''.join([TOPIC_URL, part[2]])
-        OUT.write(''.join(['- [', part[0], ' (v', version, ')](', url, ')\n']))
+        OUT.write(''.join(['- [', part[0], ' (', version, ')](', url, ')\n']))
