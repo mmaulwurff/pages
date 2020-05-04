@@ -24,6 +24,7 @@ PARTS = [
     ['10.5x'                     , '10.5x'               , '65962#p1119733'],
     ['Death-flip'                , 'flip'                , '66117#p1121533'],
     ['Autopause'                 , 'autopause'           , '67991#p1144022'],
+    ['m_Gizmos'                  , 'm_gizmos'            , '61079#p1060800'],
 ]
 HEADER = """# m8f's toolbox
 
