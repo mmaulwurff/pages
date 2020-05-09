@@ -8,7 +8,7 @@ A collection of minimods for [GZDoom](https://zdoom.org/index) game engine.
 
 - [Target Spy: Health Bars++ (v1.14)](https://forum.zdoom.org/viewtopic.php?f=43&t=60784#p1057216)
 - [Autoautosave (1.3)](https://forum.zdoom.org/viewtopic.php?f=43&t=59889#p1045558)
-- [Hellscape Navigator (0.15)](https://forum.zdoom.org/viewtopic.php?f=43&t=61643#p1068272)
+- [Hellscape Navigator (v0.16)](https://forum.zdoom.org/viewtopic.php?f=43&t=61643#p1068272)
 - [Weapon Menu + (v3.10)](https://forum.zdoom.org/viewtopic.php?f=43&t=59498#p1040474)
 - [IDCLEVer Starter (1.0)](https://forum.zdoom.org/viewtopic.php?f=43&t=61079#p1060800)
 - [Armament Tuning (0.3.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=61079#p1060800)
@@ -20,3 +20,4 @@ A collection of minimods for [GZDoom](https://zdoom.org/index) game engine.
 - [Death-flip (0.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=66117#p1121533)
 - [Autopause (v0.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=67991#p1144022)
 - [m_Gizmos (v0.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=61079#p1060800)
+- [Nomina (v0.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=68528#p1150645)
