@@ -20,4 +20,5 @@ A collection of minimods for [GZDoom](https://zdoom.org/index) game engine.
 - [Death-flip (0.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=66117#p1121533)
 - [Autopause (v0.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=67991#p1144022)
 - [m_Gizmos (v0.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=61079#p1060800)
-- [Nomina (v0.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=68528#p1150645)
+- [Nomina (v0.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=68528#p1150645)
+- [Graveyard (v0.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=68835#p1154340)

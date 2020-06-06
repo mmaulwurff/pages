@@ -26,6 +26,7 @@ PARTS = [
     ['Autopause'                 , 'autopause'           , '67991#p1144022'],
     ['m_Gizmos'                  , 'm_gizmos'            , '61079#p1060800'],
     ['Nomina'                    , 'nomina'              , '68528#p1150645'],
+    ['Graveyard'                 , 'graveyard'           , '68835#p1154340'],
 ]
 HEADER = """# m8f's toolbox
 
