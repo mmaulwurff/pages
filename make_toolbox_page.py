@@ -35,7 +35,10 @@ A collection of minimods for [GZDoom](https://zdoom.org/index) game engine.
 <a href="https://forum.zdoom.org/viewtopic.php?f=4&t=60112#p1048497">
 <img src="https://mmaulwurff.github.io/zdoom-top-labels/pngs/m8f%E2%80%99s_toolbox.png">
 </a>
+"""
 
+FOOTER = """
+See also my [other Doom stuff](https://mmaulwurff.github.io/pages/stuff).
 """
 
 
@@ -54,3 +57,5 @@ if __name__ == "__main__":
 
         url = ''.join([TOPIC_URL, part[2]])
         OUT.write(''.join(['- [', part[0], ' (', version, ')](', url, ')\n']))
+
+    OUT.write(FOOTER)
