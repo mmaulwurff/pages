@@ -21,6 +21,6 @@ A collection of minimods for [GZDoom](https://zdoom.org/index) game engine.
 - [m_Gizmos (v0.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=61079#p1060800)
 - [Nomina (v0.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=68528#p1150645)
 - [Graveyard (v0.3.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=68835#p1154340)
-- [Warm Reception (v0.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=69486#p1161250)
+- [Warm Reception (v0.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=69486#p1161250)
 
 See also my [other Doom stuff](https://mmaulwurff.github.io/pages/stuff).
