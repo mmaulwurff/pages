@@ -47,7 +47,7 @@ Awesome authors of awesome addons.
 
 ## Accensus
 - [War Trophies](https://forum.zdoom.org/viewtopic.php?f=43&t=67054)
-- [Universal Gibs](https://forum.zdoom.org/viewtopic.php?f=46&t=59260)
+- [Universal Gibs](https://gitlab.com/accensi/UniversalGibs)
 - [ZRadar](https://gitlab.com/accensi/zradar)
 
 ## Jekyll Grim Payne
