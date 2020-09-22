@@ -36,6 +36,7 @@ A collection of minimods for [GZDoom](https://zdoom.org/index) game engine.
 <a href="https://forum.zdoom.org/viewtopic.php?f=4&t=60112#p1048497">
 <img src="https://mmaulwurff.github.io/zdoom-top-labels/pngs/m8f%E2%80%99s_toolbox.png">
 </a>
+
 """
 
 FOOTER = """
@@ -56,8 +57,8 @@ if __name__ == "__main__":
         command = ['git', 'describe', '--abbrev=0', '--tags']
         version = run(command, stdout=PIPE).stdout.decode('utf-8').rstrip()
         url = ''.join([TOPIC_URL, part[2]])
-        shield = ''.join(['<img src="https://img.shields.io/github/downloads/mmaulwurff/', part[3], '/total" style="vertical-align:bottom">'])
-        line = ''.join(['- [', part[0], ' (', version, ')](', url, ') ', shield, '\n'])
+        shield = ''.join(['<img src="https://img.shields.io/github/downloads/mmaulwurff/', part[3], '/total">'])
+        line = ''.join(['[', part[0], ' (', version, ')](', url, ') ', shield, '\n\n'])
 
         OUT.write(line)
 
