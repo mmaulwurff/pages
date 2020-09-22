@@ -55,8 +55,10 @@ if __name__ == "__main__":
 
         command = ['git', 'describe', '--abbrev=0', '--tags']
         version = run(command, stdout=PIPE).stdout.decode('utf-8').rstrip()
-
         url = ''.join([TOPIC_URL, part[2]])
-        OUT.write(''.join(['- [', part[0], ' (', version, ')](', url, ')\n']))
+        shield = ''.join(['<img src="https://img.shields.io/github/downloads/mmaulwurff/', part[1], '/total">'])
+        line = ''.join(['- [', part[0], ' (', version, ')](', url, ') ', shield, '\n'])
+
+        OUT.write(line)
 
     OUT.write(FOOTER)
