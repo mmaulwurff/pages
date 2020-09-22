@@ -57,7 +57,7 @@ if __name__ == "__main__":
         command = ['git', 'describe', '--abbrev=0', '--tags']
         version = run(command, stdout=PIPE).stdout.decode('utf-8').rstrip()
         url = ''.join([TOPIC_URL, part[2]])
-        shield = ''.join(['<img src="https://img.shields.io/github/downloads/mmaulwurff/', part[3], '/total">'])
+        shield = ''.join(['<img src="https://img.shields.io/github/downloads/mmaulwurff/', part[3], '/total?color=white&label=%20&style=plastic">'])
         line = ''.join(['[', part[0], ' (', version, ')](', url, ') ', shield, '\n\n'])
 
         OUT.write(line)
