@@ -14,6 +14,7 @@ Script resources:
 - [Stupid Achievements](https://forum.zdoom.org/viewtopic.php?f=43&t=68366)
 - [Lazy Points](https://forum.zdoom.org/viewtopic.php?f=105&t=66565&p=1127275)
 - [Tips for menus](https://forum.zdoom.org/viewtopic.php?f=105&t=66539&p=1126628#p1126628)
+- [Headquarters](https://forum.zdoom.org/viewtopic.php?f=105&t=70923)
 
 Fixes:
 
