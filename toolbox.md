@@ -40,5 +40,7 @@ A collection of minimods for [GZDoom](https://zdoom.org/index) game engine.
 
 [Warm Reception (v0.3)](https://forum.zdoom.org/viewtopic.php?f=43&t=69486#p1161250) <img src="https://img.shields.io/github/downloads/mmaulwurff/warm-reception/total?color=white&label=%20&style=plastic" title="downloads">
 
+[dps-widget (v0.3.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=70954#p1176261) <img src="https://img.shields.io/github/downloads/mmaulwurff/dps-widget/total?color=white&label=%20&style=plastic" title="downloads">
+
 
 See also my [other Doom stuff](https://mmaulwurff.github.io/pages/stuff).

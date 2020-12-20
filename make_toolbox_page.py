@@ -28,6 +28,7 @@ PARTS = [
     ['Nomina'                    , 'nomina'              , '68528#p1150645' , 'nomina'              ],
     ['Graveyard'                 , 'graveyard'           , '68835#p1154340' , 'graveyard'           ],
     ['Warm Reception'            , 'warm-reception'      , '69486#p1161250' , 'warm-reception'      ],
+    ['dps-widget'                , 'dps-widget'          , '70954#p1176261' , 'dps-widget'          ],
 ]
 HEADER = """# m8f's toolbox
 
