@@ -10,25 +10,27 @@ from subprocess import run
 
 SRC_DIR = path.expanduser('~/src/')
 TOPIC_URL = 'https://forum.zdoom.org/viewtopic.php?f=43&t='
+
+"""Title, directory/repository, ZDF topic"""
 PARTS = [
-    ['Target Spy: Health Bars++' , 'target-spy'          , '60784#p1057216' , 'target-spy'          ],
-    ['Autoautosave'              , 'autoautosave'        , '59889#p1045558' , 'autoautosave'        ],
-    ['Hellscape Navigator'       , 'hellscape-navigator' , '61643#p1068272' , 'hellscape-navigator' ],
-    ['Weapon Menu +'             , 'weapon-menu'         , '59498#p1040474' , 'weapons-menu'        ],
-    ['IDCLEVer Starter'          , 'idclever-starter'    , '61079#p1060800' , 'idclever-starter'    ],
-    ['Armament Tuning'           , 'armament-tuning'     , '61079#p1060800' , 'armament-tuning'     ],
-    ['Laser Sight'               , 'laser-sight'         , '61079#p1060800' , 'laser-sight'         ],
-    ['Pomodoro Timer'            , 'gzdoom-pomodoro'     , '60035#p1047347' , 'gzdoom-pomodoro'     ],
-    ['Ultimate Custom Doom'      , 'ultimate-custom-doom', '64678#p1103556' , 'ultimate-custom-doom'],
-    ['Precise Crosshair'         , 'precise-crosshair'   , '64788#p1104858' , 'precise-crosshair'   ],
-    ['10.5x'                     , '10.5x'               , '65962#p1119733' , '10.5x'               ],
-    ['Death-flip'                , 'flip'                , '66117#p1121533' , 'death-flip'          ],
-    ['Autopause'                 , 'autopause'           , '67991#p1144022' , 'autopause'           ],
-    ['m_Gizmos'                  , 'm_gizmos'            , '61079#p1060800' , 'm_gizmos'            ],
-    ['Nomina'                    , 'nomina'              , '68528#p1150645' , 'nomina'              ],
-    ['Graveyard'                 , 'graveyard'           , '68835#p1154340' , 'graveyard'           ],
-    ['Warm Reception'            , 'warm-reception'      , '69486#p1161250' , 'warm-reception'      ],
-    ['dps-widget'                , 'dps-widget'          , '70954#p1176261' , 'dps-widget'          ],
+    ['Target Spy: Health Bars++' , 'target-spy'          , '60784#p1057216'],
+    ['Autoautosave'              , 'autoautosave'        , '59889#p1045558'],
+    ['Hellscape Navigator'       , 'hellscape-navigator' , '61643#p1068272'],
+    ['Weapon Menu +'             , 'weapons-menu'        , '59498#p1040474'],
+    ['IDCLEVer Starter'          , 'idclever-starter'    , '61079#p1060800'],
+    ['Armament Tuning'           , 'armament-tuning'     , '61079#p1060800'],
+    ['Laser Sight'               , 'laser-sight'         , '61079#p1060800'],
+    ['Pomodoro Timer'            , 'gzdoom-pomodoro'     , '60035#p1047347'],
+    ['Ultimate Custom Doom'      , 'ultimate-custom-doom', '64678#p1103556'],
+    ['Precise Crosshair'         , 'precise-crosshair'   , '64788#p1104858'],
+    ['10.5x'                     , '10.5x'               , '65962#p1119733'],
+    ['Death-flip'                , 'death-flip'          , '66117#p1121533'],
+    ['Autopause'                 , 'autopause'           , '67991#p1144022'],
+    ['m_Gizmos'                  , 'm_gizmos'            , '61079#p1060800'],
+    ['Nomina'                    , 'nomina'              , '68528#p1150645'],
+    ['Graveyard'                 , 'graveyard'           , '68835#p1154340'],
+    ['Warm Reception'            , 'warm-reception'      , '69486#p1161250'],
+    ['dps-widget'                , 'dps-widget'          , '70954#p1176261'],
 ]
 HEADER = """# m8f's toolbox
 
@@ -58,7 +60,7 @@ if __name__ == "__main__":
         command = ['git', 'describe', '--abbrev=0', '--tags']
         version = run(command, stdout=PIPE).stdout.decode('utf-8').rstrip()
         url = ''.join([TOPIC_URL, part[2]])
-        shield = ''.join(['<img src="https://img.shields.io/github/downloads/mmaulwurff/', part[3], '/total?color=white&label=%20&style=plastic" title="downloads">'])
+        shield = ''.join(['<img src="https://img.shields.io/github/downloads/mmaulwurff/', part[1], '/total?color=white&label=%20&style=plastic" title="downloads">'])
         line = ''.join(['[', part[0], ' (', version, ')](', url, ') ', shield, '\n\n'])
 
         OUT.write(line)
