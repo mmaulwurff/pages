@@ -8,7 +8,6 @@ Visual modifications:
 
 - [Bubble 'Em](https://forum.zdoom.org/viewtopic.php?f=46&t=68685#p1152614)
 - [Back to Saturn X graphic/audio enhancements](https://forum.zdoom.org/viewtopic.php?f=46&t=59373&p=1039130#p1039130)
-- [Custom Automap Arrows](https://forum.zdoom.org/viewtopic.php?f=46&t=59360)
 
 Script resources:
 
