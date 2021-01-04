@@ -19,6 +19,7 @@ PARTS = [
     ['Autopause'                 , 'autopause'           , '67991#p1144022'],
     ['Death-flip'                , 'death-flip'          , '66117#p1121533'],
     ['dps-widget'                , 'dps-widget'          , '70954#p1176261'],
+    ['Gearbox'                   , 'gearbox'             , '71086'],
     ['Graveyard'                 , 'graveyard'           , '68835#p1154340'],
     ['Hellscape Navigator'       , 'hellscape-navigator' , '61643#p1068272'],
     ['IDCLEVer Starter'          , 'idclever-starter'    , '61079#p1060800'],
@@ -30,7 +31,6 @@ PARTS = [
     ['Target Spy: Health Bars++' , 'target-spy'          , '60784#p1057216'],
     ['Ultimate Custom Doom'      , 'ultimate-custom-doom', '64678#p1103556'],
     ['Warm Reception'            , 'warm-reception'      , '69486#p1161250'],
-    ['Weapon Menu +'             , 'weapons-menu'        , '59498#p1040474'],
 ]
 HEADER = """# m8f's toolbox
 

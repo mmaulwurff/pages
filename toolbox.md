@@ -18,6 +18,8 @@ A collection of minimods for [GZDoom](https://zdoom.org/index) game engine.
 
 [dps-widget (v0.3.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=70954#p1176261) <img src="https://img.shields.io/github/downloads/mmaulwurff/dps-widget/total?color=white&label=%20&style=plastic" title="downloads">
 
+[Gearbox (v0.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=71086) <img src="https://img.shields.io/github/downloads/mmaulwurff/gearbox/total?color=white&label=%20&style=plastic" title="downloads">
+
 [Graveyard (v0.3.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=68835#p1154340) <img src="https://img.shields.io/github/downloads/mmaulwurff/graveyard/total?color=white&label=%20&style=plastic" title="downloads">
 
 [Hellscape Navigator (v0.16)](https://forum.zdoom.org/viewtopic.php?f=43&t=61643#p1068272) <img src="https://img.shields.io/github/downloads/mmaulwurff/hellscape-navigator/total?color=white&label=%20&style=plastic" title="downloads">
@@ -39,8 +41,6 @@ A collection of minimods for [GZDoom](https://zdoom.org/index) game engine.
 [Ultimate Custom Doom (0.4)](https://forum.zdoom.org/viewtopic.php?f=43&t=64678#p1103556) <img src="https://img.shields.io/github/downloads/mmaulwurff/ultimate-custom-doom/total?color=white&label=%20&style=plastic" title="downloads">
 
 [Warm Reception (v0.3)](https://forum.zdoom.org/viewtopic.php?f=43&t=69486#p1161250) <img src="https://img.shields.io/github/downloads/mmaulwurff/warm-reception/total?color=white&label=%20&style=plastic" title="downloads">
-
-[Weapon Menu + (v3.10.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=59498#p1040474) <img src="https://img.shields.io/github/downloads/mmaulwurff/weapons-menu/total?color=white&label=%20&style=plastic" title="downloads">
 
 
 See also my [other Doom stuff](https://mmaulwurff.github.io/pages/stuff).
