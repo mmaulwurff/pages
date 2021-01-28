@@ -16,11 +16,11 @@ A collection of minimods for [GZDoom](https://zdoom.org/index) game engine.
 
 [Death-flip (v0.2.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=66117) <img src="https://img.shields.io/github/downloads/mmaulwurff/death-flip/total?color=white&label=%20&style=plastic" title="downloads">
 
-[dps-widget (v0.3.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=70954) <img src="https://img.shields.io/github/downloads/mmaulwurff/dps-widget/total?color=white&label=%20&style=plastic" title="downloads">
+[dps-widget (v0.3.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=70954) <img src="https://img.shields.io/github/downloads/mmaulwurff/dps-widget/total?color=white&label=%20&style=plastic" title="downloads">
 
 [Gearbox (v0.2.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=71086) <img src="https://img.shields.io/github/downloads/mmaulwurff/gearbox/total?color=white&label=%20&style=plastic" title="downloads">
 
-[Graveyard (v0.3.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=68835) <img src="https://img.shields.io/github/downloads/mmaulwurff/graveyard/total?color=white&label=%20&style=plastic" title="downloads">
+[Graveyard (v1.0)](https://forum.zdoom.org/viewtopic.php?f=43&t=68835) <img src="https://img.shields.io/github/downloads/mmaulwurff/graveyard/total?color=white&label=%20&style=plastic" title="downloads">
 
 [Hellscape Navigator (v0.16)](https://forum.zdoom.org/viewtopic.php?f=43&t=61643) <img src="https://img.shields.io/github/downloads/mmaulwurff/hellscape-navigator/total?color=white&label=%20&style=plastic" title="downloads">
 
