@@ -18,7 +18,7 @@ A collection of minimods for [GZDoom](https://zdoom.org/index) game engine.
 
 [dps-widget (v0.3.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=70954) <img src="https://img.shields.io/github/downloads/mmaulwurff/dps-widget/total?color=white&label=%20&style=plastic" title="downloads">
 
-[Gearbox (v0.2.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=71086) <img src="https://img.shields.io/github/downloads/mmaulwurff/gearbox/total?color=white&label=%20&style=plastic" title="downloads">
+[Gearbox (v0.3.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=71086) <img src="https://img.shields.io/github/downloads/mmaulwurff/gearbox/total?color=white&label=%20&style=plastic" title="downloads">
 
 [Graveyard (v1.0)](https://forum.zdoom.org/viewtopic.php?f=43&t=68835) <img src="https://img.shields.io/github/downloads/mmaulwurff/graveyard/total?color=white&label=%20&style=plastic" title="downloads">
 
