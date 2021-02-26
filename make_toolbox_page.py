@@ -31,6 +31,7 @@ PARTS = [
     ['Target Spy: Health Bars++' , 'target-spy'          , '60784'],
     ['Ultimate Custom Doom'      , 'ultimate-custom-doom', '64678'],
     ['Warm Reception'            , 'warm-reception'      , '69486'],
+    ['Zabor'                     , 'zabor'               , '71569'],
 ]
 HEADER = """# m8f's toolbox
 

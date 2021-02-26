@@ -42,5 +42,7 @@ A collection of minimods for [GZDoom](https://zdoom.org/index) game engine.
 
 [Warm Reception (v0.3)](https://forum.zdoom.org/viewtopic.php?f=43&t=69486) <img src="https://img.shields.io/github/downloads/mmaulwurff/warm-reception/total?color=white&label=%20&style=plastic" title="downloads">
 
+[Zabor (v1.0)](https://forum.zdoom.org/viewtopic.php?f=43&t=71569) <img src="https://img.shields.io/github/downloads/mmaulwurff/zabor/total?color=white&label=%20&style=plastic" title="downloads">
+
 
 See also my [other Doom stuff](https://mmaulwurff.github.io/pages/stuff).
