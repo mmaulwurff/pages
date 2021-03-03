@@ -13,25 +13,25 @@ TOPIC_URL = 'https://forum.zdoom.org/viewtopic.php?f=43&t='
 
 """Title, directory/repository, ZDF topic"""
 PARTS = [
-    ['10.5x'                     , '10.5x'               , '65962'],
-    ['Armament Tuning'           , 'armament-tuning'     , '61079'],
-    ['Autoautosave'              , 'autoautosave'        , '59889'],
-    ['Autopause'                 , 'autopause'           , '67991'],
-    ['Death-flip'                , 'death-flip'          , '66117'],
-    ['dps-widget'                , 'dps-widget'          , '70954'],
-    ['Gearbox'                   , 'gearbox'             , '71086'],
-    ['Graveyard'                 , 'graveyard'           , '68835'],
-    ['Hellscape Navigator'       , 'hellscape-navigator' , '61643'],
-    ['IDCLEVer Starter'          , 'idclever-starter'    , '61079'],
-    ['Laser Sight'               , 'laser-sight'         , '61079'],
-    ['m_Gizmos'                  , 'm_gizmos'            , '61079'],
-    ['Nomina'                    , 'nomina'              , '68528'],
-    ['Pomodoro Timer'            , 'gzdoom-pomodoro'     , '60035'],
-    ['Precise Crosshair'         , 'precise-crosshair'   , '64788'],
-    ['Target Spy: Health Bars++' , 'target-spy'          , '60784'],
-    ['Ultimate Custom Doom'      , 'ultimate-custom-doom', '64678'],
-    ['Warm Reception'            , 'warm-reception'      , '69486'],
-    ['Zabor'                     , 'zabor'               , '71569'],
+    ['10.5x'                , '10.5x'               , '65962', 'enemy multiplier/divider'],
+    ['Armament Tuning'      , 'armament-tuning'     , '61079', 'extra options for weapon tweaking'],
+    ['Autoautosave'         , 'autoautosave'        , '59889', 'universal automatic autosaver'],
+    ['Autopause'            , 'autopause'           , '67991', 'pauses the game if player is AFK'],
+    ['Death-flip'           , 'death-flip'          , '66117', 'mirrored death animations'],
+    ['dps-widget'           , 'dps-widget'          , '70954', 'damage per second on-screen widget'],
+    ['Gearbox'              , 'gearbox'             , '71086', 'fancy weapon/item selection'],
+    ['Graveyard'            , 'graveyard'           , '68835', 'places gravestones where you die'],
+    ['Hellscape Navigator'  , 'hellscape-navigator' , '61643', 'tools to help navigation'],
+    ['IDCLEVer Starter'     , 'idclever-starter'    , '61079', 'forced pistol start'],
+    ['Laser Sight'          , 'laser-sight'         , '61079', 'standalone laser sight'],
+    ['m_Gizmos'             , 'm_gizmos'            , '61079', 'weapon-related accessories'],
+    ['Nomina'               , 'nomina'              , '68528', 'custom names for weapons and monsters'],
+    ['Pomodoro Timer'       , 'gzdoom-pomodoro'     , '60035', 'Pomodoro timer for game'],
+    ['Precise Crosshair'    , 'precise-crosshair'   , '64788', 'places crosshair where you shoot'],
+    ['Target Spy'           , 'target-spy'          , '60784', 'health bar for targeted enemies'],
+    ['Ultimate Custom Doom' , 'ultimate-custom-doom', '64678', 'deep game customizanion'],
+    ['Warm Reception'       , 'warm-reception'      , '69486', 'alters enemy behavior on level start'],
+    ['Zabor'                , 'zabor'               , '71569', 'VM abort handler for better bug reports'],
 ]
 HEADER = """# m8f's toolbox
 
@@ -61,8 +61,10 @@ if __name__ == "__main__":
         command = ['git', 'describe', '--abbrev=0', '--tags']
         version = run(command, stdout=PIPE).stdout.decode('utf-8').rstrip()
         url = ''.join([TOPIC_URL, part[2]])
-        shield = ''.join(['<img src="https://img.shields.io/github/downloads/mmaulwurff/', part[1], '/total?color=white&label=%20&style=plastic" title="downloads">'])
-        line = ''.join(['[', part[0], ' (', version, ')](', url, ') ', shield, '\n\n'])
+        shield = ''.join(['<img src="https://img.shields.io/github/downloads/mmaulwurff/'
+                          , part[1]
+                          , '/total?color=white&label=%20&style=plastic" title="downloads">'])
+        line = ''.join(['[', part[0], ' (', version, ')](', url, ') - ', part[3], ' ', shield, '\n\n'])
 
         OUT.write(line)
 
