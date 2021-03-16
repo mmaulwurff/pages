@@ -51,7 +51,7 @@ DOCTORS_BAG_PARTS = [
     ['Mod Compatibility Checklist',
      'mod-compatibility-checklist',
      '71762',
-     'GZDoom add-on for more robust mods and better bug reports'],
+     'for more robust mods and better bug reports'],
 
     ['Zabor',
      'zabor',
