@@ -20,7 +20,7 @@ A collection of minimods for [GZDoom](https://zdoom.org/index) game engine.
 
 [Gearbox (v0.4.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=71086) - fancy weapon/item selection <img src="https://img.shields.io/github/downloads/mmaulwurff/gearbox/total?color=white&label=%20&style=plastic" title="downloads">
 
-[Graveyard (v1.0)](https://forum.zdoom.org/viewtopic.php?f=43&t=68835) - places gravestones where you die <img src="https://img.shields.io/github/downloads/mmaulwurff/graveyard/total?color=white&label=%20&style=plastic" title="downloads">
+[Graveyard (v1.1.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=68835) - places gravestones where you die <img src="https://img.shields.io/github/downloads/mmaulwurff/graveyard/total?color=white&label=%20&style=plastic" title="downloads">
 
 [Hellscape Navigator (v0.16)](https://forum.zdoom.org/viewtopic.php?f=43&t=61643) - tools to help navigation <img src="https://img.shields.io/github/downloads/mmaulwurff/hellscape-navigator/total?color=white&label=%20&style=plastic" title="downloads">
 
@@ -42,7 +42,7 @@ A collection of minimods for [GZDoom](https://zdoom.org/index) game engine.
 
 [Warm Reception (v0.3)](https://forum.zdoom.org/viewtopic.php?f=43&t=69486) - alters enemy behavior on level start <img src="https://img.shields.io/github/downloads/mmaulwurff/warm-reception/total?color=white&label=%20&style=plastic" title="downloads">
 
-[Zabor (v1.0)](https://forum.zdoom.org/viewtopic.php?f=43&t=71569) - VM abort handler for better bug reports <img src="https://img.shields.io/github/downloads/mmaulwurff/zabor/total?color=white&label=%20&style=plastic" title="downloads">
+[Zabor (v1.0.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=71569) - VM abort handler for better bug reports <img src="https://img.shields.io/github/downloads/mmaulwurff/zabor/total?color=white&label=%20&style=plastic" title="downloads">
 
 
 See also my [other Doom stuff](https://mmaulwurff.github.io/pages/stuff).
