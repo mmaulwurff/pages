@@ -1,9 +1,12 @@
-*
+# Ignore everything, but not directories:
 
-!*/
-*/*
+*
+!**/
+
+# Except the following file types:
 
 !.gitignore
+!.gitattributes
 
 !**.md
 !**.py

@@ -1,6 +1,6 @@
 # m8f's toolbox
 
-A collection of minimods for [GZDoom](https://zdoom.org/index) game engine.
+A collection of add-ons for [GZDoom](https://zdoom.org/index) game engine.
 
 <a href="https://forum.zdoom.org/viewtopic.php?f=4&t=60112#p1048497">
 <img src="https://mmaulwurff.github.io/zdoom-top-labels/pngs/m8f%E2%80%99s_toolbox.png">
@@ -42,7 +42,5 @@ A collection of minimods for [GZDoom](https://zdoom.org/index) game engine.
 
 [Warm Reception (v0.3)](https://forum.zdoom.org/viewtopic.php?f=43&t=69486) - alters enemy behavior on level start <img src="https://img.shields.io/github/downloads/mmaulwurff/warm-reception/total?color=white&label=%20&style=plastic" title="downloads">
 
-[Zabor (v1.0.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=71569) - VM abort handler for better bug reports <img src="https://img.shields.io/github/downloads/mmaulwurff/zabor/total?color=white&label=%20&style=plastic" title="downloads">
 
-
-See also my [other Doom stuff](https://mmaulwurff.github.io/pages/stuff).
+See also my [other Doom stuff](https://mmaulwurff.github.io/pages/stuff) and [m8f's doctor's bag](https://mmaulwurff.github.io/pages/doctors-bag).
