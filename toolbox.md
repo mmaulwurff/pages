@@ -18,7 +18,7 @@ A collection of add-ons for [GZDoom](https://zdoom.org/index) game engine.
 
 [dps-widget (v0.3.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=70954) - damage per second on-screen widget <img src="https://img.shields.io/github/downloads/mmaulwurff/dps-widget/total?color=white&label=%20&style=plastic" title="downloads">
 
-[Gearbox (v0.5.0)](https://forum.zdoom.org/viewtopic.php?f=43&t=71086) - fancy weapon/item selection <img src="https://img.shields.io/github/downloads/mmaulwurff/gearbox/total?color=white&label=%20&style=plastic" title="downloads">
+[Gearbox (v0.5.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=71086) - fancy weapon/item selection <img src="https://img.shields.io/github/downloads/mmaulwurff/gearbox/total?color=white&label=%20&style=plastic" title="downloads">
 
 [Graveyard (v1.1.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=68835) - places gravestones where you die <img src="https://img.shields.io/github/downloads/mmaulwurff/graveyard/total?color=white&label=%20&style=plastic" title="downloads">
 
