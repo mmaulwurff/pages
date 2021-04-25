@@ -36,7 +36,7 @@ A collection of add-ons for [GZDoom](https://zdoom.org/index) game engine.
 
 [Precise Crosshair (v1.4.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=64788) - places crosshair where you shoot <img src="https://img.shields.io/github/downloads/mmaulwurff/precise-crosshair/total?color=white&label=%20&style=plastic" title="downloads">
 
-[Target Spy (v1.14)](https://forum.zdoom.org/viewtopic.php?f=43&t=60784) - health bar for targeted enemies <img src="https://img.shields.io/github/downloads/mmaulwurff/target-spy/total?color=white&label=%20&style=plastic" title="downloads">
+[Target Spy (v2.0.0)](https://forum.zdoom.org/viewtopic.php?f=43&t=60784) - health bar for targeted enemies <img src="https://img.shields.io/github/downloads/mmaulwurff/target-spy/total?color=white&label=%20&style=plastic" title="downloads">
 
 [Ultimate Custom Doom (0.4)](https://forum.zdoom.org/viewtopic.php?f=43&t=64678) - deep game customizanion <img src="https://img.shields.io/github/downloads/mmaulwurff/ultimate-custom-doom/total?color=white&label=%20&style=plastic" title="downloads">
 
