@@ -29,7 +29,7 @@ TOOLBOX_PARTS = [
     ['Nomina'               , 'nomina'              , '68528', 'custom names for weapons and monsters'],
     ['Pomodoro Timer'       , 'gzdoom-pomodoro'     , '60035', 'Pomodoro timer for game'],
     ['Precise Crosshair'    , 'precise-crosshair'   , '64788', 'places crosshair where you shoot'],
-    ['Status Widget'        , 'status-widget'       , '72283', 'status tracker widget'],
+    ['Status Widget'        , 'status-widget'       , '72283', 'tracks health, armor, ammo, items'],
     ['Target Spy'           , 'target-spy'          , '60784', 'health bar for targeted enemies'],
     ['Ultimate Custom Doom' , 'ultimate-custom-doom', '64678', 'deep game customizanion'],
     ['Warm Reception'       , 'warm-reception'      , '69486', 'alters enemy behavior on level start'],
