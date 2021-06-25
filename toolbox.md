@@ -40,7 +40,7 @@ A collection of add-ons for [GZDoom](https://zdoom.org/index) game engine.
 
 [Target Spy (v2.0.0)](https://forum.zdoom.org/viewtopic.php?f=43&t=60784) - health bar for targeted enemies <img src="https://img.shields.io/github/downloads/mmaulwurff/target-spy/total?color=white&label=%20&style=plastic" title="downloads">
 
-[Ultimate Custom Doom (0.4)](https://forum.zdoom.org/viewtopic.php?f=43&t=64678) - deep game customizanion <img src="https://img.shields.io/github/downloads/mmaulwurff/ultimate-custom-doom/total?color=white&label=%20&style=plastic" title="downloads">
+[Ultimate Custom Doom (v0.5.0)](https://forum.zdoom.org/viewtopic.php?f=43&t=64678) - deep game customizanion <img src="https://img.shields.io/github/downloads/mmaulwurff/ultimate-custom-doom/total?color=white&label=%20&style=plastic" title="downloads">
 
 [Warm Reception (v0.3)](https://forum.zdoom.org/viewtopic.php?f=43&t=69486) - alters enemy behavior on level start <img src="https://img.shields.io/github/downloads/mmaulwurff/warm-reception/total?color=white&label=%20&style=plastic" title="downloads">
 
