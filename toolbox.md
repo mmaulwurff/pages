@@ -12,8 +12,6 @@ A collection of add-ons for [GZDoom](https://zdoom.org/index) game engine.
 
 [Autoautosave (v1.4.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=59889) - universal automatic autosaver <img src="https://img.shields.io/github/downloads/mmaulwurff/autoautosave/total?color=white&label=%20&style=plastic" title="downloads">
 
-[Autopause (v0.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=67991) - pauses the game if player is AFK <img src="https://img.shields.io/github/downloads/mmaulwurff/autopause/total?color=white&label=%20&style=plastic" title="downloads">
-
 [Death-flip (v0.2.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=66117) - mirrored death animations <img src="https://img.shields.io/github/downloads/mmaulwurff/death-flip/total?color=white&label=%20&style=plastic" title="downloads">
 
 [dps-widget (v0.3.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=70954) - damage per second on-screen widget <img src="https://img.shields.io/github/downloads/mmaulwurff/dps-widget/total?color=white&label=%20&style=plastic" title="downloads">
@@ -31,8 +29,6 @@ A collection of add-ons for [GZDoom](https://zdoom.org/index) game engine.
 [m_Gizmos (v0.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=61079) - weapon-related accessories <img src="https://img.shields.io/github/downloads/mmaulwurff/m_gizmos/total?color=white&label=%20&style=plastic" title="downloads">
 
 [Nomina (v1.0-beta)](https://forum.zdoom.org/viewtopic.php?f=43&t=68528) - custom names for weapons and monsters <img src="https://img.shields.io/github/downloads/mmaulwurff/nomina/total?color=white&label=%20&style=plastic" title="downloads">
-
-[Pomodoro Timer (0.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=60035) - Pomodoro timer for game <img src="https://img.shields.io/github/downloads/mmaulwurff/gzdoom-pomodoro/total?color=white&label=%20&style=plastic" title="downloads">
 
 [Precise Crosshair (v1.4.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=64788) - places crosshair where you shoot <img src="https://img.shields.io/github/downloads/mmaulwurff/precise-crosshair/total?color=white&label=%20&style=plastic" title="downloads">
 

@@ -16,6 +16,11 @@ Script resources:
 - [Tips for menus](https://forum.zdoom.org/viewtopic.php?f=105&t=66539&p=1126628#p1126628)
 - [Headquarters](https://forum.zdoom.org/viewtopic.php?f=105&t=70923)
 
+Experiments:
+
+- [Autopause](https://forum.zdoom.org/viewtopic.php?f=43&t=67991) - pauses the game if player is AFK
+- [Pomodoro Timer](https://forum.zdoom.org/viewtopic.php?f=43&t=60035) - Pomodoro timer for game
+
 Fixes:
 
 - [Hexen: Deathkings of the Dark Citadel 1.0 music fix](https://forum.zdoom.org/viewtopic.php?f=46&t=62802&p=1082550)
@@ -25,3 +30,5 @@ Older stuff:
 - [Custom automap arrows](https://forum.zdoom.org/viewtopic.php?f=46&t=59360)
 - [Wall Spray Packs](https://forum.zdoom.org/viewtopic.php?f=43&t=59536#p1040881)
 - [Dragging Things](https://forum.zdoom.org/viewtopic.php?f=105&t=59384#p1039253)
+
+See also [m8f's toolbox](https://mmaulwurff.github.io/pages/toolbox) and [m8f's doctor's bag](https://mmaulwurff.github.io/pages/doctors-bag).
