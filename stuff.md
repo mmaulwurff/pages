@@ -2,19 +2,19 @@
 
 Gameplay mods:
 
-- [Typist.pk3](https://forum.zdoom.org/viewtopic.php?f=43&t=66042&p=1120693)
+- [Typist.pk3](https://forum.zdoom.org/viewtopic.php?f=43&t=66042&p=1120693) - typing exercises mod
 
 Visual modifications:
 
-- [Bubble 'Em](https://forum.zdoom.org/viewtopic.php?f=46&t=68685#p1152614)
-- [Back to Saturn X graphic/audio enhancements](https://forum.zdoom.org/viewtopic.php?f=46&t=59373&p=1039130#p1039130)
+- [Bubble 'Em](https://forum.zdoom.org/viewtopic.php?f=46&t=68685#p1152614) - non-violently defeated enemies animation
+- [Back to Saturn X graphic/audio enhancements](https://forum.zdoom.org/viewtopic.php?f=46&t=59373&p=1039130#p1039130) - title is self-explanatory
 
 Script resources:
 
-- [Stupid Achievements](https://forum.zdoom.org/viewtopic.php?f=43&t=68366)
-- [Lazy Points](https://forum.zdoom.org/viewtopic.php?f=105&t=66565&p=1127275)
-- [Tips for menus](https://forum.zdoom.org/viewtopic.php?f=105&t=66539&p=1126628#p1126628)
-- [Headquarters](https://forum.zdoom.org/viewtopic.php?f=105&t=70923)
+- [Stupid Achievements](https://forum.zdoom.org/viewtopic.php?f=43&t=68366) - achievements system
+- [Lazy Points](https://forum.zdoom.org/viewtopic.php?f=105&t=66565&p=1127275) - score points system
+- [Tips for menus](https://forum.zdoom.org/viewtopic.php?f=105&t=66539&p=1126628#p1126628) - additional on-screen text in menus
+- [Headquarters](https://forum.zdoom.org/viewtopic.php?f=105&t=70923) - teleport to another map and return back
 
 Experiments:
 
