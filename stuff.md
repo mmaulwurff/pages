@@ -15,6 +15,7 @@ Script resources:
 - [Lazy Points](https://forum.zdoom.org/viewtopic.php?f=105&t=66565&p=1127275) - score points system
 - [Tips for menus](https://forum.zdoom.org/viewtopic.php?f=105&t=66539&p=1126628#p1126628) - additional on-screen text in menus
 - [Headquarters](https://forum.zdoom.org/viewtopic.php?f=105&t=70923) - teleport to another map and return back
+- [Custom Cheats](https://github.com/mmaulwurff/custom-cheats) - custom cheats that can be typed as regular ones
 
 Experiments:
 
