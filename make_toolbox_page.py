@@ -36,10 +36,6 @@ TOOLBOX_HEADER = """# m8f's toolbox
 
 A collection of add-ons for [GZDoom](https://zdoom.org/index) game engine.
 
-<a href="https://forum.zdoom.org/viewtopic.php?f=4&t=60112#p1048497">
-<img src="https://mmaulwurff.github.io/zdoom-top-labels/pngs/m8f%E2%80%99s_toolbox.png">
-</a>
-
 """
 
 TOOLBOX_FOOTER = """

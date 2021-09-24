@@ -2,10 +2,6 @@
 
 A collection of add-ons for [GZDoom](https://zdoom.org/index) game engine.
 
-<a href="https://forum.zdoom.org/viewtopic.php?f=4&t=60112#p1048497">
-<img src="https://mmaulwurff.github.io/zdoom-top-labels/pngs/m8f%E2%80%99s_toolbox.png">
-</a>
-
 [10.5x (0.9)](https://forum.zdoom.org/viewtopic.php?f=43&t=65962) - enemy multiplier/divider <img src="https://img.shields.io/github/downloads/mmaulwurff/10.5x/total?color=white&label=%20&style=plastic" title="downloads">
 
 [Armament Tuning (0.3.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=61079) - extra options for weapon tweaking <img src="https://img.shields.io/github/downloads/mmaulwurff/armament-tuning/total?color=white&label=%20&style=plastic" title="downloads">
