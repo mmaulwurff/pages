@@ -18,8 +18,6 @@ A collection of add-ons for [GZDoom](https://zdoom.org/index) game engine.
 
 [Hellscape Navigator (v0.16)](https://forum.zdoom.org/viewtopic.php?f=43&t=61643) - tools to help navigation <img src="https://img.shields.io/github/downloads/mmaulwurff/hellscape-navigator/total?color=white&label=%20&style=plastic" title="downloads">
 
-[IDCLEVer Starter (1.0)](https://forum.zdoom.org/viewtopic.php?f=43&t=61079) - forced pistol start <img src="https://img.shields.io/github/downloads/mmaulwurff/idclever-starter/total?color=white&label=%20&style=plastic" title="downloads">
-
 [Laser Sight (v0.6)](https://forum.zdoom.org/viewtopic.php?f=43&t=61079) - standalone laser sight <img src="https://img.shields.io/github/downloads/mmaulwurff/laser-sight/total?color=white&label=%20&style=plastic" title="downloads">
 
 [m_Gizmos (v0.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=61079) - weapon-related accessories <img src="https://img.shields.io/github/downloads/mmaulwurff/m_gizmos/total?color=white&label=%20&style=plastic" title="downloads">
@@ -28,13 +26,15 @@ A collection of add-ons for [GZDoom](https://zdoom.org/index) game engine.
 
 [Precise Crosshair (v1.4.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=64788) - places crosshair where you shoot <img src="https://img.shields.io/github/downloads/mmaulwurff/precise-crosshair/total?color=white&label=%20&style=plastic" title="downloads">
 
+[Sound to Screen (v0.1.0-beta)](https://forum.zdoom.org/viewtopic.php?f=43&t=75335) - shows sounds on screen <img src="https://img.shields.io/github/downloads/mmaulwurff/sound-to-screen/total?color=white&label=%20&style=plastic" title="downloads">
+
 [Status Widget (v1.2.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=72283) - tracks health, armor, ammo, items <img src="https://img.shields.io/github/downloads/mmaulwurff/status-widget/total?color=white&label=%20&style=plastic" title="downloads">
 
 [Target Spy (v2.0.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=60784) - health bar for targeted enemies <img src="https://img.shields.io/github/downloads/mmaulwurff/target-spy/total?color=white&label=%20&style=plastic" title="downloads">
 
 [Ultimate Custom Doom (v0.5.0)](https://forum.zdoom.org/viewtopic.php?f=43&t=64678) - deep game customization <img src="https://img.shields.io/github/downloads/mmaulwurff/ultimate-custom-doom/total?color=white&label=%20&style=plastic" title="downloads">
 
-[Warm Reception (v0.3)](https://forum.zdoom.org/viewtopic.php?f=43&t=69486) - alters enemy behavior on level start <img src="https://img.shields.io/github/downloads/mmaulwurff/warm-reception/total?color=white&label=%20&style=plastic" title="downloads">
+[Warm Reception (v0.3.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=69486) - alters enemy behavior on level start <img src="https://img.shields.io/github/downloads/mmaulwurff/warm-reception/total?color=white&label=%20&style=plastic" title="downloads">
 
 
 See also my [other Doom stuff](https://mmaulwurff.github.io/pages/stuff) and [m8f's doctor's bag](https://mmaulwurff.github.io/pages/doctors-bag).

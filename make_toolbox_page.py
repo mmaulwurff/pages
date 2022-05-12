@@ -22,14 +22,14 @@ TOOLBOX_PARTS = [
     ['Gearbox'              , 'gearbox'             , '71086', 'fancy weapon/item selection'],
     ['Graveyard'            , 'graveyard'           , '68835', 'places gravestones where you die'],
     ['Hellscape Navigator'  , 'hellscape-navigator' , '61643', 'tools to help navigation'],
-    ['IDCLEVer Starter'     , 'idclever-starter'    , '61079', 'forced pistol start'],
     ['Laser Sight'          , 'laser-sight'         , '61079', 'standalone laser sight'],
     ['m_Gizmos'             , 'm_gizmos'            , '61079', 'weapon-related accessories'],
     ['Nomina'               , 'nomina'              , '68528', 'custom names for weapons and monsters'],
     ['Precise Crosshair'    , 'precise-crosshair'   , '64788', 'places crosshair where you shoot'],
+    ['Sound to Screen'      , 'sound-to-screen'     , '75335', 'shows sounds on screen'],
     ['Status Widget'        , 'status-widget'       , '72283', 'tracks health, armor, ammo, items'],
     ['Target Spy'           , 'target-spy'          , '60784', 'health bar for targeted enemies'],
-    ['Ultimate Custom Doom' , 'ultimate-custom-doom', '64678', 'deep game customizanion'],
+    ['Ultimate Custom Doom' , 'ultimate-custom-doom', '64678', 'deep game customization'],
     ['Warm Reception'       , 'warm-reception'      , '69486', 'alters enemy behavior on level start'],
 ]
 TOOLBOX_HEADER = """# m8f's toolbox
