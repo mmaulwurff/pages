@@ -19,6 +19,7 @@ TOOLBOX_PARTS = [
     ['Autoautosave'         , 'autoautosave'        , '59889', 'universal automatic autosaver'],
     ['Death-flip'           , 'death-flip'          , '66117', 'mirrored death animations'],
     ['dps-widget'           , 'dps-widget'          , '70954', 'damage per second on-screen widget'],
+    ['Floor Mod'            , 'floor-mod'           , '76193', 'makes damaging floors configurable'],
     ['Gearbox'              , 'gearbox'             , '71086', 'fancy weapon/item selection'],
     ['Graveyard'            , 'graveyard'           , '68835', 'places gravestones where you die'],
     ['Hellscape Navigator'  , 'hellscape-navigator' , '61643', 'tools to help navigation'],
