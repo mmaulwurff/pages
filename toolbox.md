@@ -24,6 +24,8 @@ A collection of add-ons for [GZDoom](https://zdoom.org/index) game engine.
 
 [m_Gizmos (v0.2)](https://forum.zdoom.org/viewtopic.php?f=43&t=61079) - weapon-related accessories <img src="https://img.shields.io/github/downloads/mmaulwurff/m_gizmos/total?color=white&label=%20&style=plastic" title="downloads">
 
+[Mod Menu (v1.0.0)](https://forum.zdoom.org/viewtopic.php?f=43&t=76206) - moves mod options to a submenu <img src="https://img.shields.io/github/downloads/mmaulwurff/mod-menu/total?color=white&label=%20&style=plastic" title="downloads">
+
 [Nomina (v1.0-beta)](https://forum.zdoom.org/viewtopic.php?f=43&t=68528) - custom names for weapons and monsters <img src="https://img.shields.io/github/downloads/mmaulwurff/nomina/total?color=white&label=%20&style=plastic" title="downloads">
 
 [Precise Crosshair (v1.4.1)](https://forum.zdoom.org/viewtopic.php?f=43&t=64788) - places crosshair where you shoot <img src="https://img.shields.io/github/downloads/mmaulwurff/precise-crosshair/total?color=white&label=%20&style=plastic" title="downloads">

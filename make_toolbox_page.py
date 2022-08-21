@@ -25,6 +25,7 @@ TOOLBOX_PARTS = [
     ['Hellscape Navigator'  , 'hellscape-navigator' , '61643', 'tools to help navigation'],
     ['Laser Sight'          , 'laser-sight'         , '61079', 'standalone laser sight'],
     ['m_Gizmos'             , 'm_gizmos'            , '61079', 'weapon-related accessories'],
+    ['Mod Menu'             , 'mod-menu'            , '76206', 'moves mod options to a submenu'],
     ['Nomina'               , 'nomina'              , '68528', 'custom names for weapons and monsters'],
     ['Precise Crosshair'    , 'precise-crosshair'   , '64788', 'places crosshair where you shoot'],
     ['Sound to Screen'      , 'sound-to-screen'     , '75335', 'shows sounds on screen'],
