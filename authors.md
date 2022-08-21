@@ -1,6 +1,6 @@
-# Addon Authors
+# Add-on Authors
 
-Awesome authors of awesome addons.
+Awesome authors of awesome add-ons.
 
 ## Nash Muhandes
 - [Nash's Gore Mod: Vengeance Edition](https://forum.zdoom.org/viewtopic.php?f=46&t=62641)
@@ -53,7 +53,6 @@ Awesome authors of awesome addons.
 ## Jekyll Grim Payne
 - [Grappling-Hook](https://github.com/jekyllgrim/Grappling-Hook)
 - [Universal-Gameplay-Tweaker](https://github.com/jekyllgrim/Universal-Gameplay-Tweaker)
-- [Monster-Stat-Scaler](https://github.com/jekyllgrim/Monster-Stat-Scaler)
 
 ## Ivory Duke
 - [Universal Rewind Mod](https://forum.zdoom.org/viewtopic.php?f=4&t=67638)
