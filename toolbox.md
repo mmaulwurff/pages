@@ -1,3 +1,5 @@
+# Project renamed and moved to [DoomToolbox](https://mmaulwurff.github.io/doom-toolbox/)
+
 # m8f's toolbox
 
 A collection of add-ons for [GZDoom](https://zdoom.org/index) game engine.
