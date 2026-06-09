@@ -1,3 +1,5 @@
+# Project renamed and moved to [DoomToolbox](https://mmaulwurff.github.io/doom-toolbox/)
+
 # Doom stuff
 
 Gameplay mods:
@@ -31,5 +33,3 @@ Older stuff:
 - [Custom automap arrows](https://forum.zdoom.org/viewtopic.php?f=46&t=59360)
 - [Wall Spray Packs](https://forum.zdoom.org/viewtopic.php?f=43&t=59536#p1040881)
 - [Dragging Things](https://forum.zdoom.org/viewtopic.php?f=105&t=59384#p1039253)
-
-See also [m8f's toolbox](https://mmaulwurff.github.io/pages/toolbox) and [m8f's doctor's bag](https://mmaulwurff.github.io/pages/doctors-bag).
